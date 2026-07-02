@@ -1,8 +1,8 @@
 <p align="center">
   <strong>─── 🖥️ System Configuration ───</strong><br><br>
-  <b>OS:</b> <code>ZorinOS 18.1</code><br>
-  <b>Kernel:</b> <code>6.17.0-35-generic</code><br>
-  <b>DE:</b> <code>Zorin Desktop (Gnome)</code><br>
+  <b>OS:</b> <code>Kubuntu 26.04 LTS</code><br>
+  <b>Kernel:</b> <code>Linux 7.0.0-27-generic</code><br>
+  <b>DE:</b> <code>KDE Plasma 6.6.5</code><br>
   <b>Shell:</b> <code>Bash</code><br>
   <b>Editor:</b> <code>Neovim & Zed Editor</code>
 </p>
